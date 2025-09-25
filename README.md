@@ -62,3 +62,5 @@ npm run dev
 ```
 
 Uygulama `http://localhost:5173` (veya terminalde belirtilen başka bir port) adresinde çalışmaya başlayacaktır.
+
+NOT: Bu Proje sürekli geliştirilecektir.
